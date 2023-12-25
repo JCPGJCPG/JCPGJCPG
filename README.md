@@ -1,5 +1,5 @@
 
 - Your favorite programming language sucks.
 - Writing 100% portable code is impossible
-- If you are going to create a library, it is mandatory to follow the standard
-- If you are going to create a program, it is optional to follow the standard
+- Wanna play DOOM?
+- C/C++: Welcome to do whatever the vendor wants, and not necessarily what you want
